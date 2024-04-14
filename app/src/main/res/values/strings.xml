@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">QuickRecipes</string>
+    <string-array name="recipes">
+        <item>
+            Midnight Nutella Dip -
+            1] Combine chocolate-hazelnut spread, milk, honey, and vanilla extract in a small microwave-safe container.
+            2] Heat in microwave oven for 1 minute.
+            3] Stir the dip with a toothpick until somewhat smooth; let cool for 2 minutes before eating
+        </item>
+        <item> Strawberry Smoothie - Combine strawberries, milk, peanut butter, blue agave, and flax seeds in a blender and blend until well combined.</item>
+        <item> Microwave Crispy Corn -
+            1] Remove the husk and silk.
+            2] Wrap a moist paper towel around the corn and place it on a microwave-safe plate.
+            3] Microwave until the kernels are tender, but still crisp (three to five minutes).</item>
+        <item> Starbucks Caramel Frappuccino -
+            1] Blend ice, coffee, milk, caramel sauce, and sugar together in a blender on high speed until smooth.
+            2] Pour into two 16-ounce glasses.
+        </item>
+        <item>Roasted Brussels Sprouts-
+            1] Preheat oven to 400 degrees F (205 degrees C).
+            2] Place trimmed Brussels sprouts, olive oil, kosher salt, and pepper in a large resealable plastic bag. Seal tightly, and shake to coat.
+            3] Pour onto a baking sheet, and place on center oven rack.
+            4] Roast in the preheated oven for 30 to 45 minutes, shaking pan every 5 to 7 minutes for even browning.
+
+        </item>
+        <item> Fluffy Microwave Scrambled Eggs-
+        1] Break the eggs into a microwave-proof mixing bowl. Add milk and salt; mix well.
+            2] Pop the bowl into the microwave and cook on high power for 30 seconds. Remove bowl, beat eggs very well, scraping down the sides of the bowl, and return to the microwave for another 30 seconds.
+            3] Repeat this pattern, stirring every 30 seconds for up to 2 1/2 minutes. Stop when eggs have the consistency you desire.
+        </item>
+    </string-array>
+
+    <string name="next">next recipe</string>
+    <string name="prev">previous recipe</string>
+    <string name="warning"> Warn</string>
+    <string name="warning_message">Oops, You Reached at the End!</string>
+    <string name="ok">ok</string>
+
+</resources>
